@@ -242,14 +242,14 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: pages
+      type: posts
     values:
       layout: single
       author_profile: true
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -258,7 +258,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -267,7 +267,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -276,7 +276,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: posts
     values:
       layout: talk
       author_profile: true
