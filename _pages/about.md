@@ -6,3 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
+If you have any questions, feel free to contact me via email.
