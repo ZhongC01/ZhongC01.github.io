@@ -21,7 +21,7 @@ repository               : "ZhongC01/ZhongC01.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png"
+  avatar           : "profile1.jpg"
   name             : "Zihong Cheng"
   pronouns         : # example: "she/her"  
   bio              : "Research on dark matter"
