@@ -9,4 +9,4 @@ redirect_from:
 
 ## some code for SNSC
 
-https://github.com/ZhongC01/codeforsnsc
+<https://github.com/ZhongC01/codeforsnsc>
