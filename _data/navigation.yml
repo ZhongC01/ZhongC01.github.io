@@ -6,7 +6,7 @@
 
 main:
   - title: "notes"
-    url: /talks/
+    url: /teaching/
 
   - title: "codes"
     url: /markdown/ 
