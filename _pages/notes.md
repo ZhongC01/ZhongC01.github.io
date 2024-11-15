@@ -7,6 +7,4 @@ redirect_from:
   - /markdown.html
 ---
 
-## some code for SNSC
-
-<https://github.com/ZhongC01/codeforsnsc>
+## improving
