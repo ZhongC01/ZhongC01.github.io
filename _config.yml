@@ -21,10 +21,10 @@ repository               : "ZhongC01/ZhongC01.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile1.png"
+  name             : "Zihong Cheng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Research on dark matter"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
